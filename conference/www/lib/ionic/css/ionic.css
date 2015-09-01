@@ -2366,6 +2366,10 @@ a {
 b, strong {
   font-weight: bold; }
 
+.score-strong {
+  font-weight: 900; }
+
+
 /**
  * Address styling not present in Safari 5 and Chrome.
  */
@@ -7806,6 +7810,10 @@ a.button {
     background:#ecf6ff;
 }
 
+.light-grey-back{
+    background:#f2f2f2;
+}
+
 .blue-highlight{
     background-color: rgba(64,153,255,0.10);
 }
@@ -8406,3 +8414,108 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 /*NFL TEAM PANELS END*/
+
+/* NFL Team Colors */
+.border-top-cardinals{
+    border-top: 2px solid #870619;
+}
+.border-top-falcons{
+    border-top: 2px solid #A71930;
+}
+.border-top-ravens{
+    border-top: 2px solid #280353;
+}
+.border-top-bills{
+    border-top: 2px solid #C60C30;
+}
+.border-top-panthers{
+    border-top: 2px solid #0088CE;
+}
+.border-top-bears{
+    border-top: 2px solid #03202F;
+}
+.border-top-bengals{
+    border-top: 2px solid #FB4F14;
+}
+.border-top-browns{
+    border-top: 2px solid #E34912;
+}
+.border-top-cowboys{
+    border-top: 3px solid #002244;
+}
+.border-top-broncos{
+    border-top: 3px solid #FB4F14;
+}
+.border-top-lions{
+    border-top: 2px solid #006DB0;
+}
+.border-top-packers{
+    border-top: 2px solid #213D30;
+}
+.border-top-texans{
+    border-top: 2px solid #B31B34;
+}
+.border-top-colts{
+    border-top: 2px solid #003B7B;
+}
+.border-top-jaguars{
+    border-top: 2px solid #006778;
+}
+.border-top-chiefs{
+    border-top: 2px solid #B20032;
+}
+.border-top-dolphins{
+    border-top: 2px solid #F5811F;
+}
+.border-top-vikings{
+    border-top: 2px solid #4F2682;
+}
+.border-top-patriots{
+    border-top: 2px solid #0D254C;
+}
+.border-top-saints{
+    border-top: 2px solid #D2B887;
+}
+.border-top-giants{
+    border-top: 2px solid #192F6B;
+}
+.border-top-jets{
+    border-top: 2px solid #0C371D;
+}
+.border-top-raiders{
+    border-top: 2px solid #C4C8CB;
+}
+.border-top-eagles{
+    border-top: 2px solid #003B48;
+}
+.border-top-steelers{
+    border-top: 2px solid #F2C800;
+}
+.border-top-chargers{
+    border-top: 2px solid #5B92E5;
+}
+.border-top-49ers{
+    border-top: 2px solid #AF1E2C;
+}
+.border-top-seahawks{
+    border-top: 2px solid #06192E;
+}
+.border-top-rams{
+    border-top: 2px solid #C9AF74;
+}
+.border-top-bucs{
+    border-top: 2px solid #B20032;
+}
+.border-top-buccaneers{
+    border-top: 2px solid #B20032;
+}
+.border-top-titans{
+    border-top: 2px solid #648FCC;
+}
+.border-top-redskins{
+    border-top: 2px solid #773141;
+}
+.border-top-totals{
+    border-top: 2px solid #e3e3e3;
+}
+/* NFL Team Colors */
