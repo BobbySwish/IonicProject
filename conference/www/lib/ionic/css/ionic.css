@@ -2402,6 +2402,10 @@ q {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
+.bg-140{
+  font-size: 140%;
+}
+
 small {
   font-size: 80%; }
 
@@ -8160,3 +8164,245 @@ float: center;
 /*////////////////////////*/
 /*/////////MARGIN////////*/
 /*////////////////////////*/
+
+
+
+/*NFL TEAM PANELS*/
+.panel-49ers{
+background-image: url(../../../img/panels/49ers-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-bears{
+background-image: url(../../../img/panels/bears-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-bengals{
+background-image: url(../../../img/panels/bengals-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-bills{
+background-image: url(../../../img/panels/bills-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-broncos{
+background-image: url(../../../img/panels/broncos-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-browns{
+background-image: url(../../../img/panels/browns-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-bucs{
+background-image: url(../../../img/panels/bucs-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-cardinals{
+background-image: url(../../../img/panels/cardinals-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-chargers{
+background-image: url(../../../img/panels/chargers-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-chiefs{
+background-image: url(../../../img/panels/chiefs-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-colts{
+background-image: url(../../../img/panels/colts-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-cowboys{
+background-image: url(../../../img/panels/cowboys-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-dolphins{
+background-image: url(../../../img/panels/dolphins-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-eagles{
+background-image: url(../../../img/panels/eagles-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-falcons{
+background-image: url(../../../img/panels/falcons-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-giants{
+background-image: url(../../../img/panels/giants-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-jaguars{
+background-image: url(../../../img/panels/jaguars-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-jets{
+background-image: url(../../../img/panels/jets-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-lions{
+background-image: url(../../../img/panels/lions-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-packers{
+background-image: url(../../../img/panels/packers-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-panthers{
+background-image: url(../../../img/panels/panthers-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-patriots{
+background-image: url(../../../img/panels/patriots-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-raiders{
+background-image: url(../../../img/panels/raiders-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-rams{
+background-image: url(../../../img/panels/rams-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-ravens{
+background-image: url(../../../img/panels/ravens-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-redskins{
+background-image: url(../../../img/panels/redskins-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-saints{
+background-image: url(../../../img/panels/saints-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-seahawks{
+background-image: url(../../../img/panels/seahawks-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-steelers{
+background-image: url(../../../img/panels/steelers-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-texans{
+background-image: url(../../../img/panels/texans-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-titans{
+background-image: url(../../../img/panels/titans-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-vikings{
+background-image: url(../../../img/panels/vikings-panel.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-field-1{
+background-image: url(../../../img/panels/field-panel-1.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.panel-field-2{
+background-image: url(../../../img/panels/field-panel-6.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+/*NFL TEAM PANELS END*/
