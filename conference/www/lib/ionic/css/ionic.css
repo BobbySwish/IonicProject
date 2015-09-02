@@ -2410,6 +2410,10 @@ q {
   font-size: 140%;
 }
 
+.bg-190{
+  font-size: 190%;
+}
+
 small {
   font-size: 80%; }
 
@@ -2824,6 +2828,10 @@ cite {
 
 .text-center {
   text-align: center; }
+
+.text-muted{
+  color: #999999;
+}
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #000;
@@ -7811,7 +7819,7 @@ a.button {
 }
 
 .light-grey-back{
-    background:#f2f2f2;
+    background:#fafafa;
 }
 
 .blue-highlight{
@@ -7822,16 +7830,32 @@ a.button {
     color: #0f89ff;
 }
 
+.active-position{
+    color: #0f89ff;
+    border-bottom: 2px solid #0f89ff;
+}
 /* ////////// Colors ///////////// */
 
 
 /* ////////// Borders ///////////// */
+.bord-top-grey{
+  border-top: 1px solid #dddddd;
+}
+
 .bord-left-grey{
   border-left: 1px solid #dddddd;
 }
 
 .bord-right-grey{
   border-right: 1px solid #dddddd;
+}
+
+.bord-grey{
+  border: 1px solid #dddddd;
+}
+
+.vert-mid{
+  vertical-align:middle;
 }
 /* ////////// Borders ///////////// */
 
@@ -8176,6 +8200,7 @@ float: center;
 
 
 /*NFL TEAM PANELS*/
+
 .panel-49ers{
 background-image: url(../../../img/panels/49ers-panel.png);
 background-position: center;
@@ -8400,45 +8425,39 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
-.panel-field-1{
-background-image: url(../../../img/panels/field-panel-1.png);
+.panel-field{
+background-image: url(../../../img/panels/field-panel-100.jpg);
 background-position: center;
 background-repeat: no-repeat;
-background-size: cover;
+background-size: 75%;
 }
 
-.panel-field-2{
-background-image: url(../../../img/panels/field-panel-6.png);
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-}
 /*NFL TEAM PANELS END*/
 
 /* NFL Team Colors */
 .border-top-cardinals{
-    border-top: 2px solid #870619;
+    border-top: 3px solid #870619;
 }
 .border-top-falcons{
-    border-top: 2px solid #A71930;
+    border-top: 3px solid #A71930;
 }
 .border-top-ravens{
-    border-top: 2px solid #280353;
+    border-top: 3px solid #280353;
 }
 .border-top-bills{
-    border-top: 2px solid #C60C30;
+    border-top: 3px solid #C60C30;
 }
 .border-top-panthers{
-    border-top: 2px solid #0088CE;
+    border-top: 3px solid #0088CE;
 }
 .border-top-bears{
-    border-top: 2px solid #03202F;
+    border-top: 3px solid #03202F;
 }
 .border-top-bengals{
-    border-top: 2px solid #FB4F14;
+    border-top: 3px solid #FB4F14;
 }
 .border-top-browns{
-    border-top: 2px solid #E34912;
+    border-top: 3px solid #E34912;
 }
 .border-top-cowboys{
     border-top: 3px solid #002244;
@@ -8447,75 +8466,179 @@ background-size: cover;
     border-top: 3px solid #FB4F14;
 }
 .border-top-lions{
-    border-top: 2px solid #006DB0;
+    border-top: 3px solid #006DB0;
 }
 .border-top-packers{
-    border-top: 2px solid #213D30;
+    border-top: 3px solid #213D30;
 }
 .border-top-texans{
-    border-top: 2px solid #B31B34;
+    border-top: 3px solid #B31B34;
 }
 .border-top-colts{
-    border-top: 2px solid #003B7B;
+    border-top: 3px solid #003B7B;
 }
 .border-top-jaguars{
-    border-top: 2px solid #006778;
+    border-top: 3px solid #006778;
 }
 .border-top-chiefs{
-    border-top: 2px solid #B20032;
+    border-top: 3px solid #B20032;
 }
 .border-top-dolphins{
-    border-top: 2px solid #F5811F;
+    border-top: 3px solid #F5811F;
 }
 .border-top-vikings{
-    border-top: 2px solid #4F2682;
+    border-top: 3px solid #4F2682;
 }
 .border-top-patriots{
-    border-top: 2px solid #0D254C;
+    border-top: 3px solid #0D254C;
 }
 .border-top-saints{
-    border-top: 2px solid #D2B887;
+    border-top: 3px solid #D2B887;
 }
 .border-top-giants{
-    border-top: 2px solid #192F6B;
+    border-top: 3px solid #192F6B;
 }
 .border-top-jets{
-    border-top: 2px solid #0C371D;
+    border-top: 3px solid #0C371D;
 }
 .border-top-raiders{
-    border-top: 2px solid #C4C8CB;
+    border-top: 3px solid #C4C8CB;
 }
 .border-top-eagles{
-    border-top: 2px solid #003B48;
+    border-top: 3px solid #003B48;
 }
 .border-top-steelers{
-    border-top: 2px solid #F2C800;
+    border-top: 3px solid #F2C800;
 }
 .border-top-chargers{
-    border-top: 2px solid #5B92E5;
+    border-top: 3px solid #5B92E5;
 }
 .border-top-49ers{
-    border-top: 2px solid #AF1E2C;
+    border-top: 3px solid #AF1E2C;
 }
 .border-top-seahawks{
-    border-top: 2px solid #06192E;
+    border-top: 3px solid #06192E;
 }
 .border-top-rams{
-    border-top: 2px solid #C9AF74;
+    border-top: 3px solid #C9AF74;
 }
 .border-top-bucs{
-    border-top: 2px solid #B20032;
+    border-top: 3px solid #B20032;
 }
 .border-top-buccaneers{
-    border-top: 2px solid #B20032;
+    border-top: 3px solid #B20032;
 }
 .border-top-titans{
-    border-top: 2px solid #648FCC;
+    border-top: 3px solid #648FCC;
 }
 .border-top-redskins{
-    border-top: 2px solid #773141;
+    border-top: 3px solid #773141;
 }
 .border-top-totals{
-    border-top: 2px solid #e3e3e3;
+    border-top: 3px solid #e3e3e3;
+}
+
+
+.border-left-cardinals{
+    border-left: 2px solid #870619;
+}
+.border-left-falcons{
+    border-left: 2px solid #A71930;
+}
+.border-left-ravens{
+    border-left: 2px solid #280353;
+}
+.border-left-bills{
+    border-left: 2px solid #C60C30;
+}
+.border-left-panthers{
+    border-left: 2px solid #0088CE;
+}
+.border-left-bears{
+    border-left: 2px solid #03202F;
+}
+.border-left-bengals{
+    border-left: 2px solid #FB4F14;
+}
+.border-left-browns{
+    border-left: 2px solid #E34912;
+}
+.border-left-cowboys{
+    border-left: 2px solid #002244;
+}
+.border-left-broncos{
+    border-left: 2px solid #FB4F14;
+}
+.border-left-lions{
+    border-left: 2px solid #006DB0;
+}
+.border-left-packers{
+    border-left: 2px solid #213D30;
+}
+.border-left-texans{
+    border-left: 2px solid #B31B34;
+}
+.border-left-colts{
+    border-left: 2px solid #003B7B;
+}
+.border-left-jaguars{
+    border-left: 2px solid #006778;
+}
+.border-left-chiefs{
+    border-left: 2px solid #B20032;
+}
+.border-left-dolphins{
+    border-left: 2px solid #F5811F;
+}
+.border-left-vikings{
+    border-left: 2px solid #4F2682;
+}
+.border-left-patriots{
+    border-left: 2px solid #0D254C;
+}
+.border-left-saints{
+    border-left: 2px solid #D2B887;
+}
+.border-left-giants{
+    border-left: 2px solid #192F6B;
+}
+.border-left-jets{
+    border-left: 2px solid #0C371D;
+}
+.border-left-raiders{
+    border-left: 2px solid #C4C8CB;
+}
+.border-left-eagles{
+    border-left: 2px solid #003B48;
+}
+.border-left-steelers{
+    border-left: 2px solid #F2C800;
+}
+.border-left-chargers{
+    border-left: 2px solid #5B92E5;
+}
+.border-left-49ers{
+    border-left: 2px solid #AF1E2C;
+}
+.border-left-seahawks{
+    border-left: 2px solid #06192E;
+}
+.border-left-rams{
+    border-left: 2px solid #C9AF74;
+}
+.border-left-bucs{
+    border-left: 2px solid #B20032;
+}
+.border-left-buccaneers{
+    border-left: 2px solid #B20032;
+}
+.border-left-titans{
+    border-left: 2px solid #648FCC;
+}
+.border-left-redskins{
+    border-left: 2px solid #773141;
+}
+.border-left-totals{
+    border-left: 2px solid #e3e3e3;
 }
 /* NFL Team Colors */
